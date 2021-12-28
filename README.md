@@ -1,0 +1,2 @@
+- 👋 Print ("Hello, my name is Jonathan and i'm here just to learn - By the way i'm brazilian!")
+- Interested in NFT and blockchain world, having a dream of living by codes :D
